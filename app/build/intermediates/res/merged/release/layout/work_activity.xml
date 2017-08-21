@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#d5d5d5"
+        android:orientation="vertical"
+        android:weightSum="1884" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="132"
+            android:background="@drawable/zhichangxinxi_03"
+            android:orientation="horizontal"
+            android:weightSum="1080" >
+
+            <Button
+                android:id="@+id/activebackbtn"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="132"
+                android:background="@android:color/transparent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/activelist1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1752"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:weightSum="1080" >
+
+            <LinearLayout
+                android:id="@+id/active_type"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="75"
+                android:background="@drawable/zhichangxinxi_06"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/work_item"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@android:color/transparent" />
+
+                <Button
+                    android:id="@+id/video_item"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@android:color/transparent" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ac_work"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1005"
+                android:background="@drawable/activebg"
+                android:orientation="vertical"
+                android:visibility="visible"
+                android:weightSum="1572" >
+
+                <LinearLayout
+                    android:id="@+id/active_titletype"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="80"
+                    android:background="@drawable/zhichangxinxi_04"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/content_btn1"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/content_btn2"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="@android:color/transparent" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/w_content"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1492"
+                    android:orientation="vertical"
+                    android:weightSum="1492" >
+
+                    <com.artgallery.tool.XListView
+                        android:id="@+id/work_list"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10px"
+                        android:divider="#00000000"
+                        android:dividerHeight="20px" >
+                    </com.artgallery.tool.XListView>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ac_video"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1005"
+                android:background="@drawable/activebg"
+                android:orientation="vertical"
+                android:visibility="gone"
+                android:weightSum="1572" >
+
+                <LinearLayout
+                    android:id="@+id/theall"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15px"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical" >
+
+                    <GridView
+                        android:id="@+id/work_video"
+                        android:layout_width="860px"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="20px"
+                        android:horizontalSpacing="25px"
+                        android:numColumns="3"
+                        android:verticalSpacing="20px" >
+                    </GridView>
+
+                    <LinearLayout
+                        android:id="@+id/thebottom"
+                        android:layout_width="match_parent"
+                        android:layout_height="45px"
+                        android:layout_marginTop="40px"
+                        android:gravity="center_horizontal"
+                        android:orientation="horizontal"
+                        android:visibility="gone" >
+
+                        <Button
+                            android:id="@+id/startpage"
+                            android:layout_width="45px"
+                            android:layout_height="35px"
+                            android:layout_gravity="center_vertical"
+                            android:background="@drawable/yuedujingdian_24" />
+
+                        <Button
+                            android:id="@+id/uppage"
+                            android:layout_width="45px"
+                            android:layout_height="35px"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="10px"
+                            android:background="@drawable/yuedujingdian_25" />
+
+                        <TextView
+                            android:id="@+id/thispage"
+                            android:layout_width="100px"
+                            android:layout_height="35px"
+                            android:layout_marginLeft="40px"
+                            android:layout_marginRight="30px"
+                            android:layout_marginTop="3px"
+                            android:gravity="center"
+                            android:textSize="17px" />
+
+                        <Button
+                            android:id="@+id/downpage"
+                            android:layout_width="45px"
+                            android:layout_height="35px"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="10px"
+                            android:background="@drawable/yuedujingdian_26" />
+
+                        <Button
+                            android:id="@+id/endpage"
+                            android:layout_width="45px"
+                            android:layout_height="35px"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="10px"
+                            android:background="@drawable/yuedujingdian_27" />
+
+                        <TextView
+                            android:id="@+id/howpage"
+                            android:layout_width="wrap_content"
+                            android:layout_height="35px"
+                            android:layout_marginLeft="10px"
+                            android:layout_marginTop="3px"
+                            android:textSize="17px" />
+
+                        <TextView
+                            android:id="@+id/allpage"
+                            android:layout_width="wrap_content"
+                            android:layout_height="35px"
+                            android:layout_marginLeft="10px"
+                            android:layout_marginTop="3px"
+                            android:textSize="17px" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom" android:layout_marginBottom="100px"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/remain_hide"
+            android:layout_width="79px"
+            android:layout_height="104px"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/remain_hide"
+            android:visibility="visible" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/remain_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="bottom" android:layout_marginBottom="100px"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:layout_width="258px"
+            android:layout_height="104px"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/remain_all" >
+
+            <Button
+                android:id="@+id/remain_all"
+                android:layout_width="104px"
+                android:layout_height="104px"
+                android:background="@android:color/transparent" />
+
+            <Button
+                android:id="@+id/remain_ret"
+                android:layout_width="104px"
+                android:layout_height="104px"
+                android:layout_marginLeft="50px"
+                android:background="@android:color/transparent" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</FrameLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="1080px"
+    android:layout_height="match_parent"
+    android:background="@drawable/msg_e"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:id="@+id/msg_sup"
+        android:layout_width="720px"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="508px"
+        android:textSize="30px"
+        android:layout_gravity="center"/>
+
+</LinearLayout>

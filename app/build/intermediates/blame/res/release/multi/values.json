@@ -1,0 +1,1016 @@
+[
+    {
+        "outputFile": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 51,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endLine": 6,
+                    "endColumn": 11,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endLine": 7,
+                        "endColumn": 11,
+                        "endOffset": 226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 43,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 43,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endColumn": 42,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 21,
+                        "endColumn": 42,
+                        "endOffset": 59
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 419,
+                    "endColumn": 84,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 84,
+                        "endOffset": 552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 504,
+                    "endColumn": 91,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 558,
+                        "endColumn": 91,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 596,
+                    "endColumn": 90,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 90,
+                        "endOffset": 737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 71,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1361,
+                        "endColumn": 71,
+                        "endOffset": 1428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endColumn": 70,
+                    "endOffset": 825
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 892,
+                        "endColumn": 70,
+                        "endOffset": 958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 830,
+                    "endColumn": 72,
+                    "endOffset": 898
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 818,
+                        "endColumn": 72,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 903,
+                    "endColumn": 59,
+                    "endOffset": 958
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1300,
+                        "endColumn": 59,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 963,
+                    "endColumn": 51,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1434,
+                        "endColumn": 51,
+                        "endOffset": 1481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 81,
+                    "endOffset": 1092
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1217,
+                        "endColumn": 78,
+                        "endOffset": 1294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1097,
+                    "endColumn": 79,
+                    "endOffset": 1172
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1139,
+                        "endColumn": 79,
+                        "endOffset": 1214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1177,
+                    "endColumn": 73,
+                    "endOffset": 1246
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 743,
+                        "endColumn": 73,
+                        "endOffset": 812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1251,
+                    "endColumn": 82,
+                    "endOffset": 1329
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 964,
+                        "endColumn": 82,
+                        "endOffset": 1042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1334,
+                    "endColumn": 89,
+                    "endOffset": 1419
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 89,
+                        "endOffset": 1133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1424,
+                    "endColumn": 61,
+                    "endOffset": 1481
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 61,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1486,
+                    "endColumn": 62,
+                    "endOffset": 1544
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 62,
+                        "endOffset": 456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1549,
+                    "endColumn": 65,
+                    "endOffset": 1610
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 65,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1615,
+                    "endColumn": 61,
+                    "endOffset": 1672
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 67,
+                        "endColumn": 61,
+                        "endOffset": 124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1677,
+                    "endColumn": 62,
+                    "endOffset": 1735
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 132,
+                        "endColumn": 62,
+                        "endOffset": 190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1740,
+                    "endColumn": 62,
+                    "endOffset": 1798
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 62,
+                        "endOffset": 325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1803,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2089
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2094,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2249
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2254,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2591
+                },
+                "from": {
+                    "file": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 9,
+                        "startOffset": 690,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1033
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 51,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endLine": 6,
+                    "endColumn": 11,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endLine": 7,
+                        "endColumn": 11,
+                        "endOffset": 226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 43,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 43,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endColumn": 40,
+                    "endOffset": 412
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 21,
+                        "endColumn": 40,
+                        "endOffset": 57
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 417,
+                    "endColumn": 85,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 470,
+                        "endColumn": 85,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 91,
+                    "endOffset": 590
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 557,
+                        "endColumn": 91,
+                        "endOffset": 644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 595,
+                    "endColumn": 90,
+                    "endOffset": 681
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 90,
+                        "endOffset": 736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 686,
+                    "endColumn": 71,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 71,
+                        "endOffset": 1427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endColumn": 70,
+                    "endOffset": 824
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 891,
+                        "endColumn": 70,
+                        "endOffset": 957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 829,
+                    "endColumn": 72,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 817,
+                        "endColumn": 72,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 59,
+                    "endOffset": 957
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1299,
+                        "endColumn": 59,
+                        "endOffset": 1354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 962,
+                    "endColumn": 51,
+                    "endOffset": 1009
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1433,
+                        "endColumn": 51,
+                        "endOffset": 1480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1014,
+                    "endColumn": 81,
+                    "endOffset": 1091
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1216,
+                        "endColumn": 78,
+                        "endOffset": 1293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1096,
+                    "endColumn": 79,
+                    "endOffset": 1171
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1138,
+                        "endColumn": 79,
+                        "endOffset": 1213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1176,
+                    "endColumn": 73,
+                    "endOffset": 1245
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endColumn": 73,
+                        "endOffset": 811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1250,
+                    "endColumn": 82,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 963,
+                        "endColumn": 82,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1333,
+                    "endColumn": 89,
+                    "endOffset": 1418
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1047,
+                        "endColumn": 89,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1423,
+                    "endColumn": 61,
+                    "endOffset": 1480
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 61,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1485,
+                    "endColumn": 62,
+                    "endOffset": 1543
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 62,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1548,
+                    "endColumn": 65,
+                    "endOffset": 1609
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 196,
+                        "endColumn": 65,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1614,
+                    "endColumn": 61,
+                    "endOffset": 1671
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 65,
+                        "endColumn": 61,
+                        "endOffset": 122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1676,
+                    "endColumn": 62,
+                    "endOffset": 1734
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 62,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1739,
+                    "endColumn": 62,
+                    "endOffset": 1797
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 62,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1802,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2088
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2093,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2248
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2253,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2590
+                },
+                "from": {
+                    "file": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 9,
+                        "startOffset": 690,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1033
+                    }
+                }
+            }
+        ]
+    }
+]

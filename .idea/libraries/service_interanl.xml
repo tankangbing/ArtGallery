@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="service_interanl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/service_interanl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

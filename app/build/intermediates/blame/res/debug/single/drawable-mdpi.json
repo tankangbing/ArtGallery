@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\favicon.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-mdpi\\favicon.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_qyg.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-mdpi\\icon_qyg.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

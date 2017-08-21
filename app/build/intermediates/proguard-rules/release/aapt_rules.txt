@@ -1,0 +1,118 @@
+# view res/layout/banner.xml #generated:11
+# view res/layout/banner2.xml #generated:11
+# view res/layout/banner3.xml #generated:11
+# view res/layout/banner4.xml #generated:11
+# view res/layout/guoxue_viewpager.xml #generated:11
+# view res/layout/map_activity.xml #generated:28
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:71
+-keep class com.artgallery.activity.ActiveActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:73
+-keep class com.artgallery.activity.ActivityContent { <init>(...); }
+
+# view AndroidManifest.xml #generated:65
+-keep class com.artgallery.activity.BookActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:67
+-keep class com.artgallery.activity.BookContent { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class com.artgallery.activity.BookTread { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class com.artgallery.activity.CultrueActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:113
+-keep class com.artgallery.activity.DepartmentActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:117
+-keep class com.artgallery.activity.DepartmentContent { <init>(...); }
+
+# view AndroidManifest.xml #generated:101
+-keep class com.artgallery.activity.GuoXueActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:115
+-keep class com.artgallery.activity.HelpActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:97
+-keep class com.artgallery.activity.KCBActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:99
+-keep class com.artgallery.activity.KCBListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:63
+-keep class com.artgallery.activity.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:137
+-keep class com.artgallery.activity.MainActivity$WeatherReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:127
+-keep class com.artgallery.activity.MainActivity$exitReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:93
+-keep class com.artgallery.activity.MapActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class com.artgallery.activity.MapContent { <init>(...); }
+
+# view AndroidManifest.xml #generated:103
+-keep class com.artgallery.activity.MsgActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:111
+-keep class com.artgallery.activity.MsgSupActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:107
+-keep class com.artgallery.activity.TestActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class com.artgallery.activity.VideoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:81
+-keep class com.artgallery.activity.VideoContent { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class com.artgallery.activity.VideoContent2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:85
+-keep class com.artgallery.activity.VideoWeb { <init>(...); }
+
+# view AndroidManifest.xml #generated:87
+-keep class com.artgallery.activity.VideoWeb2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class com.artgallery.activity.WelcomeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:132
+-keep class com.artgallery.activity.WelcomeActivity$WelcomeexitReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:89
+-keep class com.artgallery.activity.WorkActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:91
+-keep class com.artgallery.activity.WorkContent { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class com.artgallery.application.MyApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:154
+-keep class com.artgallery.service.MsgService { <init>(...); }
+
+# view AndroidManifest.xml #generated:122
+-keep class com.artgallery.service.OpenReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:152
+-keep class com.artgallery.service.TimeService { <init>(...); }
+
+# view AndroidManifest.xml #generated:156
+-keep class com.artgallery.service.WeatherService { <init>(...); }
+
+# view AndroidManifest.xml #generated:143
+-keep class com.artgallery.tool.BootBroadcastReceiver { <init>(...); }
+
+# view res/layout/active_activity.xml #generated:125
+# view res/layout/active_content.xml #generated:293
+# view res/layout/work_activity.xml #generated:103
+-keep class com.artgallery.tool.XListView { <init>(...); }
+

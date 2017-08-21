@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="100px"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/remain_hide"
+            android:layout_width="79px"
+            android:layout_height="104px"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/remain_hide"
+            android:visibility="visible" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/remain_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="bottom"
+        android:layout_marginBottom="100px"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:layout_width="258px"
+            android:layout_height="104px"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/remain_all" >
+
+            <Button
+                android:id="@+id/remain_all"
+                android:layout_width="104px"
+                android:layout_height="104px"
+                android:background="@android:color/transparent" />
+
+            <Button
+                android:id="@+id/remain_ret"
+                android:layout_width="104px"
+                android:layout_height="104px"
+                android:layout_marginLeft="50px"
+                android:background="@android:color/transparent" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="132px"
+            android:background="#00a29a"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:id="@+id/back"
+                android:layout_width="132px"
+                android:layout_height="132px"
+                android:clickable="true">
+
+                <ImageButton
+                    android:layout_width="56px"
+                    android:layout_height="56px"
+                    android:layout_centerInParent="true"
+                    android:background="@android:color/transparent"
+                    android:clickable="false"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/back_btn"/>
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/title_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="12px"
+                android:layout_toRightOf="@+id/back"
+                android:text="标题文字"
+                android:textColor="#fefefe"
+                android:textSize="48px"/>
+
+            <TextView
+                android:id="@+id/setting"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20px"
+                android:padding="10px"
+                android:text="设置"
+                android:textColor="#fefefe"
+                android:textSize="40px"/>
+        </RelativeLayout>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="90px"
+            android:layout_marginRight="90px"
+            android:layout_marginTop="90px"
+            android:text="更多精彩内容尽在客户端。打开手机扫码即可下载。成功安装后使用'扫一扫'或者'摇一摇'与互动屏进行互动，下载各类资源"
+            android:textColor="@color/black_333"
+            android:textSize="24px"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50px"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <!--<ImageView-->
+                <!--android:layout_width="140px"-->
+                <!--android:layout_height="140px"-->
+                <!--android:src="@drawable/android_code_icon" />-->
+
+                <TextView
+                    android:layout_width="140px"
+                    android:layout_height="140px"
+                    android:gravity="center"
+                    android:text="暂未提供"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10px"
+                    android:text="安卓手机客户端"
+                    android:textColor="@color/black_333"
+                    android:textSize="24px"/>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                android:layout_width="140px"
+                android:layout_height="140px"
+                android:src="@drawable/iphone" />
+                <!--<TextView-->
+                    <!--android:layout_width="140px"-->
+                    <!--android:layout_height="140px"-->
+                    <!--android:gravity="center"-->
+                    <!--android:text="暂未提供"/>-->
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10px"
+                    android:text="苹果手机客户端"
+                    android:textColor="@color/black_333"
+                    android:textSize="24px"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <!--<VideoView-->
+        <!--android:id="@+id/video_view"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="509px"-->
+        <!--android:layout_marginLeft="90px"-->
+        <!--android:layout_marginRight="90px"-->
+        <!--android:layout_marginTop="90px" />-->
+
+        <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="center_horizontal"-->
+        <!--android:layout_marginTop="6px"-->
+        <!--android:text="使用视频"-->
+        <!--android:textColor="@color/black_333"-->
+        <!--android:textSize="24px" />-->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="90px"
+            android:layout_marginTop="50px"
+            android:text="1.使用本软件时需要先设置服务器IP，可在当前页面右上角设置"
+            android:textColor="@color/black_333"
+            android:textSize="24px"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="90px"
+            android:layout_marginTop="10px"
+            android:text="2.本软件产品功能需要网络支持。请在良好网络环境下使用"
+            android:textColor="@color/black_333"
+            android:textSize="24px"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="90px"
+            android:layout_marginTop="10px"
+            android:text="3.部分功能支持手机客户端同步使用(如经典图书、视频课程内容)"
+            android:textColor="@color/black_333"
+            android:textSize="24px"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="90px"
+            android:layout_marginTop="10px"
+            android:text="4.请不要用力拍打互动屏等设施"
+            android:textColor="@color/black_333"
+            android:textSize="24px"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="90px"
+            android:layout_marginTop="10px"
+            android:text="5.如软件出现异常问题，请记录问题并及时与我们联系"
+            android:textColor="@color/black_333"
+            android:textSize="24px"/>
+
+        <TextView
+            android:id="@+id/serializable_code"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="90px"
+            android:layout_marginTop="10px"
+            android:text="6.本机序列码："
+            android:textColor="@color/black_333"
+            android:textSize="24px"/>
+    </LinearLayout>
+</FrameLayout>

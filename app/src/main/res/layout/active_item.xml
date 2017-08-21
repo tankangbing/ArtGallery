@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:weightSum="1080" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="960"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:weightSum="960" >
+
+            <ImageView
+                android:id="@+id/huodong_list_img"
+                android:layout_width="185px"
+                android:layout_height="185px"
+                android:layout_marginBottom="5px"
+                android:layout_marginLeft="5px"
+                android:layout_marginTop="5px"
+                android:padding="10px"
+                android:background="@drawable/ative_bg"
+                
+                android:scaleType="centerCrop" />
+
+            <ImageView
+                android:layout_width="2px"
+                android:layout_height="170px"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="50px"
+                android:background="#3c9a63" />
+
+            <LinearLayout
+                android:layout_width="465px"
+                android:layout_height="170px"
+                android:layout_marginLeft="50px"
+                android:gravity="center_vertical"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/huodong_list_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:singleLine="true"
+                    android:textColor="#000000"
+                    android:textSize="28px" />
+
+                <TextView
+                    android:id="@+id/huodong_list_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8px"
+                    android:ellipsize="end"
+                    android:singleLine="true"
+                    android:textColor="#3c9a63"
+                    android:textSize="20px" />
+
+                <TextView
+                    android:id="@+id/huodong_list_unit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20px"
+                    android:ellipsize="end"
+                    android:singleLine="true"
+                    android:textColor="#000000"
+                    android:textSize="20px" />
+
+                <TextView
+                    android:id="@+id/huodong_list_num"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8px"
+                    android:ellipsize="end"
+                    android:lines="1"
+                    android:textColor="#000000"
+                    android:textSize="20px" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/huodong_list_xuefeng"
+                android:layout_width="124px"
+                android:layout_height="35px"
+                android:layout_marginTop="42px"
+                android:gravity="center"
+                android:textSize="15px" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="860px"
+        android:layout_height="2px"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="5px"
+        android:background="#3c9a63" />
+
+</LinearLayout>

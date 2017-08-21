@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallery\app\libs\umeng-analytics-v5.6.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fed6d2233b958f0c1d589aa366785e0ab5c8f1">
+        <dex dex="E:\code\hn\ArtGallery\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.6.4_59c7677c7d65c1088644703c22d44a89fdea58fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallery\app\libs\aphid-FilpView-Library.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aabcab4ed451cd0b2f4cf88b64d5893d490dfdb2">
+        <dex dex="E:\code\hn\ArtGallery\app\build\intermediates\pre-dexed\debug\aphid-FilpView-Library_df5e8ceeb68e5642f1ef50eedc2cc9981f9fb0dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\deve\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\code\fangyi\sanminglibrary\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_bacd01b31162dad133ec7ca59dc2d3b3fa81eff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\sanminglibrary\app\libs\service_interanl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="243660b62ace5e98ac150028e77483d2dc053d3c">
+        <dex dex="E:\code\fangyi\sanminglibrary\app\build\intermediates\pre-dexed\debug\service_interanl_b9a390f5838360095adf6bf79cae4e53df62fb35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallery\app\libs\universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="E:\code\hn\ArtGallery\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.6-with-sources_67e1c2007c7462c174bf65885a761db226aa56b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallery\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="E:\code\hn\ArtGallery\app\build\intermediates\pre-dexed\debug\volley_23daf54a04edbc67c950a4fe2330996d0a7de66d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\sanminglibrary\app\libs\universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="E:\code\fangyi\sanminglibrary\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.6-with-sources_63a86906d60f7ada421d71c03c977da162057309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\sanminglibrary\app\libs\aphid-FilpView-Library.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aabcab4ed451cd0b2f4cf88b64d5893d490dfdb2">
+        <dex dex="E:\code\fangyi\sanminglibrary\app\build\intermediates\pre-dexed\debug\aphid-FilpView-Library_5f96abac3e70fa99b94a8389e1e0a25d5258c451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallery\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fdb2999a05364a8f66f4985624e18e949427d4ee">
+        <dex dex="E:\code\hn\ArtGallery\app\build\intermediates\pre-dexed\debug\com.zhy-okhttputils-2.0.0_1c6158589675e0637a76e9bd40498c8f120a1fb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="E:\code\hn\ArtGallery\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_2ea39afb3973a142a4b831a99bc4e2df1de6a0a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\sanminglibrary\app\libs\umeng-analytics-v5.6.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fed6d2233b958f0c1d589aa366785e0ab5c8f1">
+        <dex dex="E:\code\fangyi\sanminglibrary\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.6.4_c0938e9ca8f339eff55d90338074e36e03665320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="E:\code\hn\ArtGallery\app\build\intermediates\pre-dexed\debug\gson-2.3.1_3d67bc6296728dce11d45e3fe02a4d0f0bf336e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="E:\code\hn\ArtGallery\app\build\intermediates\pre-dexed\debug\okio-1.8.0_06f7f952010e37a20e0067d81e65675288b9e24f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallery\app\libs\service_interanl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="243660b62ace5e98ac150028e77483d2dc053d3c">
+        <dex dex="E:\code\hn\ArtGallery\app\build\intermediates\pre-dexed\debug\service_interanl_be593cccd36460fb8f4211c37f42aec75ed8322f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\sanminglibrary\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="E:\code\fangyi\sanminglibrary\app\build\intermediates\pre-dexed\debug\volley_2194aaf499e7910326c373ce5b05b3e79245594b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="E:\code\hn\ArtGallery\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_c5a573687790528960a2cdb5042d396490d51899.jar" />
+    </item>
+
+</items>

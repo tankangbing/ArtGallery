@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="aphid-FilpView-Library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/aphid-FilpView-Library.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

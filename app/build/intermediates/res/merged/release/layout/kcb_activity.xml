@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1884" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="132"
+            android:background="@drawable/kcb_title"
+            android:weightSum="1080" >
+
+            <Button
+                android:id="@+id/kcb_backbtn"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="132"
+                android:background="@android:color/transparent" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1752"
+            android:background="@drawable/kcb_mainbg" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="160px"
+                android:layout_marginTop="850px"
+                android:text="选择："
+                android:textColor="#000000"
+                android:textSize="60px" />
+
+            <Spinner
+                android:id="@+id/spinner_grade"
+                android:layout_width="291px"
+                android:layout_height="100px"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="366px"
+                android:layout_marginTop="834px"
+                android:spinnerMode="dropdown" />
+
+            <Spinner
+                android:id="@+id/spinner_class"
+                android:layout_width="233px"
+                android:layout_height="100px"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="150px"
+                android:layout_marginTop="834px"
+                android:spinnerMode="dropdown" />
+
+            <Button
+                android:id="@+id/kcb_queding"
+                android:layout_width="291px"
+                android:layout_height="100px"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="457px"
+                android:background="@drawable/kcb_btn" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="100px"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/remain_hide"
+            android:layout_width="79px"
+            android:layout_height="104px"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/remain_hide"
+            android:visibility="visible" />
+    </RelativeLayout>
+    
+    <RelativeLayout
+        android:id="@+id/remain_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="bottom" android:layout_marginBottom="100px"
+        android:orientation="vertical" 
+         android:visibility="gone"
+        >
+
+        <LinearLayout
+            android:layout_width="258px"
+            android:layout_height="104px"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/remain_all"
+           >
+            <Button 
+                android:id="@+id/remain_all"
+                android:layout_width="104px"
+                android:layout_height="104px"
+                android:background="@android:color/transparent"
+                />
+             <Button 
+                android:id="@+id/remain_ret"
+                android:layout_width="104px"
+                android:layout_height="104px"
+                android:layout_marginLeft="50px"
+                android:background="@android:color/transparent"
+                />
+        </LinearLayout>
+    </RelativeLayout>
+
+</FrameLayout>

@@ -1,0 +1,786 @@
+[
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_21.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_21.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\wo_yunpin.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\wo_yunpin.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_20.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_20.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\vtitle.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\vtitle.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_07.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_07.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuanxizhuye_07.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuanxizhuye_07.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\kcb_mainbg.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\kcb_mainbg.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_18.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_18.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhichangxinxi_04.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\zhichangxinxi_04.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\msgf3.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\msgf3.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_10.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_10.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\kcb_title.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\kcb_title.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\xiaoyuanhuodong_03.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\xiaoyuanhuodong_03.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\kechengbiao.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\kechengbiao.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\shiyongbangzhu.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\shiyongbangzhu.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_22.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_22.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_05.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_05.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_19.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_19.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_10.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_10.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_04.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_04.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_17.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_17.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loucengzhiyin02.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\loucengzhiyin02.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\daohanglan.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\daohanglan.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_03.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_03.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_07.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_07.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhichangxinxi_06.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\zhichangxinxi_06.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\msg_e.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\msg_e.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_20.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_20.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\kcb_listbg.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\kcb_listbg.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loucengzhiyin04.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\loucengzhiyin04.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_02.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_02.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_07.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_07.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_01.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_01.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\kcb_itembg1.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\kcb_itembg1.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhichangxinxi_02.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\zhichangxinxi_02.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_17.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_17.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhuyemian_01.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\zhuyemian_01.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\xiaoyuanhuodong_03.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\xiaoyuanhuodong_03.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_11.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_11.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_19.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_19.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_14.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_14.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_13.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_13.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loucengzhiyin06.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\loucengzhiyin06.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\xuefeng.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\xuefeng.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_17.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_17.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_05.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_05.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\kcb_listbg.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\kcb_listbg.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_24.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_24.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_10.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_10.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_20.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_20.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_08.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_08.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\kcb_mainbg.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\kcb_mainbg.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhuyemian_05.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\zhuyemian_05.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\vtitle.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\vtitle.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhuyemian_04.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\zhuyemian_04.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loucengzhiyin06.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\loucengzhiyin06.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\kcb_itembg2.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\kcb_itembg2.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\xiaoyuanzixun_02.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\xiaoyuanzixun_02.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\shiyongbangzhu22.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\shiyongbangzhu22.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhichangxinxi_05.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\zhichangxinxi_05.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_15.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_15.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_25.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_25.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_01.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_01.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loucengzhiyin05.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\loucengzhiyin05.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_01.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_01.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhuyemian_06.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\zhuyemian_06.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_02.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_02.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_13.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_13.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\kcb_title.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\kcb_title.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_14.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_14.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_15.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_15.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_26.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_26.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\xiaoyuanhuodong_04.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\xiaoyuanhuodong_04.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_16.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_16.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_07.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_07.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_15.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_15.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_12.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_12.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\xiaoyuanhuodong_01.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\xiaoyuanhuodong_01.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_10.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_10.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\remain_all.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\remain_all.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_25.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_25.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\kcb_itembg1.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\kcb_itembg1.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_18.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_18.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_03.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_03.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loucengzhiyin04.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\loucengzhiyin04.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_login.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\btn_login.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_06.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_06.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_16.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_16.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_24.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_24.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_22.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_22.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\xuefeng.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\xuefeng.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_09.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_09.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_05.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_05.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\remain_hide.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\remain_hide.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\shiyongbangzhu.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\shiyongbangzhu.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhichangxinxi_05.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\zhichangxinxi_05.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loucengzhiyin05.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\loucengzhiyin05.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhichangxinxi_04.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\zhichangxinxi_04.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\helptitle.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\helptitle.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\msgf5.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\msgf5.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_23.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_23.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\xiaoyuanhuodong_04.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\xiaoyuanhuodong_04.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhichangxinxi_03.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\zhichangxinxi_03.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\msgf3.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\msgf3.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_05.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_05.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_06.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_06.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_18.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_18.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\touxiang_07.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\touxiang_07.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loucengzhiyin01.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\loucengzhiyin01.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_04.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_04.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_22.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_22.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian23.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian23.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_17.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_17.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loucengzhiyin03.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\loucengzhiyin03.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_20.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_20.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuanxizhuye_03.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuanxizhuye_03.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhichangxinxi_01.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\zhichangxinxi_01.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\xiaoyuanhuodong_02.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\xiaoyuanhuodong_02.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loucengzhiyin01.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\loucengzhiyin01.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_04.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_04.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_18.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_18.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_06.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_06.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_21.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_21.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_08.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_08.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhichangxinxi_03.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\zhichangxinxi_03.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\muke_39.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\muke_39.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_23.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_23.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\kcb_btn.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\kcb_btn.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_04.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_04.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\msg_e.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\msg_e.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhichangxinxi_07.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\zhichangxinxi_07.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\msgf5.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\msgf5.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuanxizhuye_itemimg.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuanxizhuye_itemimg.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhuyemian_07.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\zhuyemian_07.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_02.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_02.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loucengzhiyin03.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\loucengzhiyin03.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_16.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_16.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_08.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_08.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_11.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_11.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\xiaoyuanzixun_02.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\xiaoyuanzixun_02.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\helptitle.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\helptitle.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_27.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_27.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian23.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian23.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_11.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_11.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\xiaoyuanhuodong_02.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\xiaoyuanhuodong_02.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\kcb_itembg2.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\kcb_itembg2.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\xiaoyuanzixun_01.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\xiaoyuanzixun_01.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_09.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_09.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_13.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_13.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\kcb_btn.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\kcb_btn.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhichangxinxi_06.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\zhichangxinxi_06.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_26.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_26.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_15.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_15.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_01.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_01.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\muke_39.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\muke_39.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_14.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_14.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_12.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_12.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_08.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_08.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_27.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_27.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_14.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_14.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\touxiang_07.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\touxiang_07.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_09.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_09.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhuyemian_03.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\zhuyemian_03.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\wo_yunpin.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\wo_yunpin.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_12.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_12.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\tab.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_12.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_12.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_11.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_11.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loucengzhiyin.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\loucengzhiyin.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_16.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_16.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\remain_hide.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\remain_hide.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\tab.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhuyemian_02.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\zhuyemian_02.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_09.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_09.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhuyemian_08.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\zhuyemian_08.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_03.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_03.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\xiaoyuanzixun_01.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\xiaoyuanzixun_01.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\xiaoyuanzx.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\xiaoyuanzx.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuanxizhuye_07.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuanxizhuye_07.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuanxizhuye_itemimg.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuanxizhuye_itemimg.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_03.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_03.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuanxizhuye_03.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuanxizhuye_03.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_13.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_13.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_06.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_06.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_22.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_22.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_19.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_19.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuedujingdian_02.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\yuedujingdian_02.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhichangxinxi_07.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\zhichangxinxi_07.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\suzhijiaoyu_19.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\suzhijiaoyu_19.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loucengzhiyin02.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\loucengzhiyin02.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhichangxinxi_02.png",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xxhdpi\\zhichangxinxi_02.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\xiaoyuanhuodong_01.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\xiaoyuanhuodong_01.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\remain_all.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\remain_all.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhichangxinxi_01.png",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xxhdpi\\zhichangxinxi_01.png"
+    }
+]

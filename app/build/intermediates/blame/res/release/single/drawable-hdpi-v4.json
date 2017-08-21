@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\dot_focused.xml",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-hdpi\\dot_focused.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\progress.xml",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-hdpi\\progress.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\progress.xml",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-hdpi\\progress.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\dot_normal.xml",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-hdpi\\dot_normal.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\dot_normal.xml",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-hdpi\\dot_normal.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\dot_focused.xml",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-hdpi\\dot_focused.xml"
+    }
+]

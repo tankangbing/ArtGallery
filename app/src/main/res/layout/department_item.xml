@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150px"
+    android:minHeight="85px"
+    android:layout_gravity="center_vertical"
+    android:gravity="center_vertical" >
+    
+	<ImageView 
+	    android:layout_width="30px"
+	    android:layout_height="30px"
+	    android:layout_marginTop="5px"
+	    android:layout_alignParentLeft="true"
+	    android:id="@+id/depatrment_item_img"
+	    android:background="@drawable/yuanxizhuye_itemimg"
+	    android:layout_marginLeft="40px"/>
+	
+	<TextView
+	    android:layout_width="510px"
+	    android:layout_height="wrap_content"
+	    android:layout_toRightOf="@id/depatrment_item_img"
+	    android:id="@+id/depatrment_item_title"
+	    android:layout_marginLeft="31px"
+	    android:textSize="27px"
+	    android:lines="1" />
+	
+	<TextView
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentRight="true"
+	    android:id="@+id/depatrment_item_time"
+	    android:layout_marginRight="42px"
+	    android:textSize="20px" />
+	
+	<TextView
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_toLeftOf="@id/depatrment_item_time"
+	    android:id="@+id/depatrment_item_part"
+	    android:layout_marginRight="60px" 
+	    android:textSize="20px" />
+</RelativeLayout>

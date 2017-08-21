@@ -1,0 +1,170 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.artgallery.wo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:name="com.artgallery.application.MyApplication"
+        android:allowBackup="true"
+        android:persistent="true"
+        android:largeHeap="true"
+        android:icon="@drawable/icon_qyg"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="58be28d2f43e486efa0003f2" >
+        </meta-data>
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="Channel ID" />
+
+        <activity
+            android:name="com.artgallery.activity.WelcomeActivity"
+            android:configChanges="orientation|keyboardHidden|navigation|screenSize"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.artgallery.activity.LoginActivity" >
+        </activity>
+        <activity android:name="com.artgallery.activity.MainActivity" >
+        </activity>
+        <activity android:name="com.artgallery.activity.BookActivity" >
+        </activity>
+        <activity android:name="com.artgallery.activity.BookContent" >
+        </activity>
+        <activity android:name="com.artgallery.activity.BookTread" >
+        </activity>
+        <activity android:name="com.artgallery.activity.ActiveActivity" >
+        </activity>
+        <activity android:name="com.artgallery.activity.ActivityContent" >
+        </activity>
+        <activity
+            android:name="com.artgallery.activity.CultrueActivity"
+            android:hardwareAccelerated="true" >
+        </activity>
+        <activity android:name="com.artgallery.activity.VideoActivity" >
+        </activity>
+        <activity android:name="com.artgallery.activity.VideoContent" >
+        </activity>
+        <activity android:name="com.artgallery.activity.VideoContent2" >
+        </activity>
+        <activity android:name="com.artgallery.activity.VideoWeb" >
+        </activity>
+        <activity android:name="com.artgallery.activity.VideoWeb2" >
+        </activity>
+        <activity android:name="com.artgallery.activity.WorkActivity" >
+        </activity>
+        <activity android:name="com.artgallery.activity.WorkContent" >
+        </activity>
+        <activity android:name="com.artgallery.activity.MapActivity" >
+        </activity>
+        <activity android:name="com.artgallery.activity.MapContent" >
+        </activity>
+        <activity android:name="com.artgallery.activity.KCBActivity" >
+        </activity>
+        <activity android:name="com.artgallery.activity.KCBListActivity" >
+        </activity>
+        <activity android:name="com.artgallery.activity.GuoXueActivity" >
+        </activity>
+        <activity
+            android:name="com.artgallery.activity.MsgActivity"
+            android:hardwareAccelerated="true" >
+        </activity>
+        <activity
+            android:name="com.artgallery.activity.TestActivity"
+            android:hardwareAccelerated="true" >
+        </activity>
+        <activity android:name="com.artgallery.activity.MsgSupActivity" >
+        </activity>
+        <activity android:name="com.artgallery.activity.DepartmentActivity" >
+        </activity>
+        <activity android:name="com.artgallery.activity.HelpActivity" >
+        </activity>
+        <activity
+            android:name="com.artgallery.activity.DepartmentContent"
+            android:hardwareAccelerated="true" >
+        </activity>
+        <activity
+            android:name="com.artgallery.activity.BenGuanZiYuanActivity"
+            android:hardwareAccelerated="true" >
+        </activity>
+        <activity
+            android:name="com.artgallery.activity.OtherActivity"
+            android:hardwareAccelerated="true" >
+        </activity>
+
+
+        <receiver android:name="com.artgallery.service.OpenReceiver" >
+            <intent-filter>
+                <action android:name="com.fy.Open" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.artgallery.activity.MainActivity$exitReceiver" >
+            <intent-filter>
+                <action android:name="com.fy.exit" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.artgallery.activity.WelcomeActivity$WelcomeexitReceiver" >
+            <intent-filter>
+                <action android:name="com.fy.exit" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.artgallery.activity.MainActivity$WeatherReceiver" >
+            <intent-filter>
+                <action android:name="com.get.weather" >
+                </action>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.artgallery.tool.BootBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" >
+                </action>
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.artgallery.service.TimeService" >
+        </service>
+        <service android:name="com.artgallery.service.MsgService" >
+        </service>
+        <service android:name="com.artgallery.service.WeatherService" >
+        </service>
+    </application>
+
+    <uses-permission android:name="android.permission.STATUS_BAR" />
+    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.READ_LOGS" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.INTERNAL_SYSTEM_WINDOW" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.GET_TASKS" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+</manifest>

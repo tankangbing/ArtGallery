@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/title_bar"
+            android:layout_width="match_parent"
+            android:layout_height="132px"
+            android:visibility="gone"
+            android:orientation="horizontal"
+            android:background="#00a29a">
+
+            <RelativeLayout
+                android:layout_width="132px"
+                android:layout_height="132px"
+                android:id="@+id/back"
+                android:clickable="true">
+
+                <ImageButton
+                    android:layout_width="56px"
+                    android:layout_height="56px"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/back_btn"
+                    android:scaleType="fitXY"
+                    android:background="@android:color/transparent"
+                    android:clickable="false"/>
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="12px"
+                android:textSize="48px"
+                android:id="@+id/title_text"
+                android:textColor="#fefefe"
+                android:text="标题文字"/>
+        </LinearLayout>
+
+        <WebView
+            android:id="@+id/net_webview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="visible" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom" android:layout_marginBottom="100px"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/remain_hide"
+            android:layout_width="79px"
+            android:layout_height="104px"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/remain_hide"
+            android:visibility="visible" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/remain_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="bottom" android:layout_marginBottom="100px"
+        android:orientation="vertical" 
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:layout_width="258px"
+            android:layout_height="104px"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/remain_all"
+            >
+
+            <Button
+                android:id="@+id/remain_all"
+                android:layout_width="104px"
+                android:layout_height="104px"
+                android:background="@android:color/transparent" />
+
+            <Button
+                android:id="@+id/remain_ret"
+                android:layout_width="104px"
+                android:layout_height="104px"
+                android:layout_marginLeft="50px"
+                android:background="@android:color/transparent" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</FrameLayout>

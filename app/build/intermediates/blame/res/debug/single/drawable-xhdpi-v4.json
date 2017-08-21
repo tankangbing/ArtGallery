@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\activebg.jpg",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xhdpi\\activebg.jpg"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\huodong_blue_tag.xml",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xhdpi\\huodong_blue_tag.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\huodong_green_tag.xml",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xhdpi\\huodong_green_tag.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcome_bg.jpg",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xhdpi\\welcome_bg.jpg"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\favicon.jpg",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xhdpi\\favicon.jpg"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\huodong_orange_tag.xml",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xhdpi\\huodong_orange_tag.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_book.jpg",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xhdpi\\bg_book.jpg"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_book.jpg",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xhdpi\\bg_book.jpg"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\activebg.jpg",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xhdpi\\activebg.jpg"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\huodong_orange_tag.xml",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xhdpi\\huodong_orange_tag.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcome_bg.jpg",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xhdpi\\welcome_bg.jpg"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\huodong_green_tag.xml",
+        "source": "E:\\code\\hn\\ArtGallery\\app\\src\\main\\res\\drawable-xhdpi\\huodong_green_tag.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\sanminglibrary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\huodong_blue_tag.xml",
+        "source": "E:\\code\\fangyi\\sanminglibrary\\app\\src\\main\\res\\drawable-xhdpi\\huodong_blue_tag.xml"
+    }
+]

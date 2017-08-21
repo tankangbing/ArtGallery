@@ -1,0 +1,33 @@
+<resources>
+
+
+    <string name="app_name">群艺馆</string>
+
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+
+
+    
+    <string name="url_active">http://data.iego.net:85/qyg/actlistjson2.ashx?</string>
+    <string name="url_activeContent">http://data.iego.net:85/qyg/actInfojson.ashx?</string>
+    <string name="url_activeSay">http://data.iego.net:85/act/reviewListJson.ashx?</string>
+    <string name="url_msg">/cirmSystem/notify/findNotify_client?</string>
+    <string name="url_department">/cirmSystem/vWeb/jsp/xyzx.jsp</string>
+    <string name="url_cultrue">/cirmSystem/vWeb/jsp/index.jsp</string>
+    <string name="url_work">http://data.iego.net:85/job/jobListjson.ashx?</string>
+    <string name="url_workcontent">http://data.iego.net:85/job/jobInfojson.ashx?</string>
+    <string name="url_kcb_grade">/cirmSystem/grade/findTopGrade_client</string>
+	<string name="url_kcb_class">/cirmSystem/grade/findByGradeId_client?</string>
+    <string name="url_famouspeople">/mrq/index.jsp</string>
+    <string name="url_bookbuy">/RecommendationSystem/index.jsp</string>
+    <string name="url_features">/smLibrary</string>
+</resources>

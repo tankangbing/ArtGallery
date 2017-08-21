@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/havedata"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/activebg"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/book_act_title"
+            android:layout_width="match_parent"
+            android:layout_height="132px"
+            android:background="@drawable/yuedujingdian_01" >
+
+            <Button
+                android:id="@+id/book_back"
+                android:layout_width="132px"
+                android:layout_height="132px"
+                android:layout_alignParentLeft="true"
+                android:background="@android:color/transparent" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg_book"
+            android:orientation="vertical" >
+
+            <GridView
+                android:id="@+id/book_topgrid"
+                android:layout_width="960px"
+                android:layout_height="260px"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20px"
+                android:horizontalSpacing="25px"
+                android:numColumns="4"
+                android:verticalSpacing="20px">
+            </GridView>
+
+            <RelativeLayout
+                android:layout_width="960px"
+                android:layout_height="60px"
+                android:layout_gravity="center_horizontal"
+                android:focusable="true"
+                android:focusableInTouchMode="true" >
+
+                <Button
+                    android:id="@+id/ss_btn"
+                    android:layout_width="120px"
+                    android:layout_height="60px"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginRight="30px"
+                    android:layout_toLeftOf="@+id/more_btn"
+                    android:background="@drawable/yuedujingdian_19" />
+
+                <EditText
+                    android:id="@+id/suosuo_edit"
+                    android:layout_width="630px"
+                    android:layout_height="60px"
+                    android:layout_alignParentTop="true"
+                    android:layout_toLeftOf="@+id/ss_btn"
+                    android:background="@drawable/sousuodikuang"
+                    android:ems="10"
+                    android:hint="请输入书名或作者查询"
+                    android:paddingLeft="10px"
+                    android:singleLine="true"
+                    android:textSize="24px" />
+
+                <Button
+                    android:id="@+id/more_btn"
+                    android:layout_width="174px"
+                    android:layout_height="60px"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:background="@drawable/yuedujingdian_20" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginTop="13px" />
+
+            <LinearLayout
+                android:id="@+id/theall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15px"
+                android:gravity="center_horizontal"
+                android:orientation="vertical" >
+
+                <GridView
+                    android:id="@+id/book_grid"
+                    android:layout_width="960px"
+                    android:layout_height="1000px"
+                    android:layout_marginLeft="10px"
+                    android:layout_marginTop="70px"
+                    android:horizontalSpacing="88px"
+                    android:numColumns="4"
+                    android:verticalSpacing="80px" >
+                </GridView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/thebottom"
+                android:layout_width="match_parent"
+                android:layout_height="45px"
+                android:layout_marginTop="90px"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:visibility="gone" >
+
+                <Button
+                    android:id="@+id/startpage"
+                    android:layout_width="75px"
+                    android:layout_height="52px"
+                    android:layout_gravity="center_vertical"
+                    android:background="@drawable/yuedujingdian_24" />
+
+                <Button
+                    android:id="@+id/uppage"
+                    android:layout_width="112px"
+                    android:layout_height="52px"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="34px"
+                    android:background="@drawable/yuedujingdian_25" />
+
+                <TextView
+                    android:id="@+id/thispage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="34px"
+                    android:gravity="center"
+                    android:textSize="26px" />
+
+                <Button
+                    android:id="@+id/downpage"
+                    android:layout_width="112px"
+                    android:layout_height="52px"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="34px"
+                    android:background="@drawable/yuedujingdian_26" />
+
+                <Button
+                    android:id="@+id/endpage"
+                    android:layout_width="75px"
+                    android:layout_height="52px"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="34px"
+                    android:background="@drawable/yuedujingdian_27" />
+
+                <TextView
+                    android:id="@+id/howpage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="34px"
+                    android:layout_marginTop="6px"
+                    android:textSize="17px" />
+
+                <TextView
+                    android:id="@+id/allpage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="34px"
+                    android:layout_marginTop="6px"
+                    android:textSize="17px" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="100px"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/remain_hide"
+            android:layout_width="79px"
+            android:layout_height="104px"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/remain_hide"
+            android:visibility="visible" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/remain_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="bottom"
+        android:layout_marginBottom="100px"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:layout_width="258px"
+            android:layout_height="104px"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/remain_all" >
+
+            <Button
+                android:id="@+id/remain_all"
+                android:layout_width="104px"
+                android:layout_height="104px"
+                android:background="@android:color/transparent" />
+
+            <Button
+                android:id="@+id/remain_ret"
+                android:layout_width="104px"
+                android:layout_height="104px"
+                android:layout_marginLeft="50px"
+                android:background="@android:color/transparent" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</FrameLayout>
