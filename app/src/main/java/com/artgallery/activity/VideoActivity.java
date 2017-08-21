@@ -304,6 +304,7 @@ public class VideoActivity extends BaseActivity implements OnClickListener {
 					flagurl = addurl;
 				}
 				if (page == 1) {
+
 				} else {
 					clickableBoolean = false;
 					breakurl = flagurl.split("page=" + page);
@@ -317,6 +318,7 @@ public class VideoActivity extends BaseActivity implements OnClickListener {
 					flagurl = addurl;
 				}
 				if (page == countpage) {
+
 				} else {
 					clickableBoolean = false;
 					breakurl = flagurl.split("page=" + page);
@@ -514,7 +516,9 @@ public class VideoActivity extends BaseActivity implements OnClickListener {
 
 				break;
 			case VideoActivity.REF:
+			    if(videoAdapter!=null){
 				videoAdapter.notifyDataSetChanged();
+                }
 				break;
 			}
 			super.handleMessage(msg);
